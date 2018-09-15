@@ -1780,10 +1780,33 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-r3I7sPuMiN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/black-closet-clothes-fashion-favim.com-495581-500x375.jpg");
+}
+.cid-r3I7sPuMiN [class^="socicon-"]:before,
+.cid-r3I7sPuMiN [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-r3I7sPuMiN .btn-social {
+  border-color: #ffffff;
+}
+.cid-r3I7sPuMiN .btn-social:hover {
+  background: #ffffff;
+}
+.cid-r3I7sPuMiN .btn-social:hover i.socicon {
+  color: #000000 !important;
+}
+@media (max-width: 767px) {
+  .cid-r3I7sPuMiN .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-r3I5JD60m8 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/david-koma-main1-875x459.jpg");
+  background-color: #ffffff;
 }
 .cid-r3I5JD60m8 .mbr-iconfont {
   font-size: 48px;
